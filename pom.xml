@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.jj</groupId>
 	<artifactId>pet-clinic-app</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.3</version>
 	<name>pet-clinic-app</name>
 	<description>SFG Pet Clinic Project</description>
 
@@ -38,6 +38,7 @@
 					<goals>
 						install
 					</goals>
+					<autoVersionSubmodules>true</autoVersionSubmodules>
 					<checkModificationExcludes>
 						<checkModificationExclude>pom.xml</checkModificationExclude>
 						<checkModificationExclude>**</checkModificationExclude>
@@ -49,7 +50,7 @@
 	</build>
 	<scm>
 		<developerConnection>scm:git:git@github.com:JaeLee18/Spring-PetClinic-App.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>pet-clinic-app-0.0.3</tag>
   </scm>
 
 </project>
