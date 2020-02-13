@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.jj</groupId>
 	<artifactId>pet-clinic-app</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>pet-clinic-app</name>
 	<description>SFG Pet Clinic Project</description>
 
@@ -49,7 +49,7 @@
 	</build>
 	<scm>
 		<developerConnection>scm:git:git@github.com:JaeLee18/Spring-PetClinic-App.git</developerConnection>
-	  <tag>pet-clinic-app-0.0.2</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 </project>
