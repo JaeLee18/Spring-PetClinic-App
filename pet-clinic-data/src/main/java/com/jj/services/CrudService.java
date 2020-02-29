@@ -1,4 +1,4 @@
-package services;
+package com.jj.services;
 
 import java.util.Set;
 
